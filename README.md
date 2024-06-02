@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=olexandracodes.olexandracodes" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=fe5805&duration=4000&lines=Femme+Tech;+Bot+Mommy;Punk+Coder" />
@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,flutter,dart,firebase,nextjs,docker,chatgpt" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,flutter,dart,firebase,nextjs,docker,openai" /><br>
 </div>
 
 <br/>
