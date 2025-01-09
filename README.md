@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=fe5805&duration=4000&lines=Femme+Tech;+Bot+Mommy;Punk+Coder" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=fe5805&duration=4000&lines=Femme+Tech;+Bot+Mommy" />
 </h1>
 
 <h3 align="center">Frontend Developer Maestro from Ukraine 🇺🇦</h3>
